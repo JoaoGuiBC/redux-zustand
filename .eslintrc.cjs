@@ -29,7 +29,8 @@ module.exports = {
       {
         'endOfLine': 'auto',
         'singleQuote': true,
-        'semi': false
+        'semi': false,
+        'printWidth': 100
       }
     ]
   },
